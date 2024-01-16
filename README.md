@@ -1,7 +1,7 @@
 
 <h1 align="center"> 👋 Hi, I'm Dinuka D. Kirindage</h1>
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-<h3 align="center">Passionate about code AND, Debugging the universe</h3>
+<h3 align="center">Passionate about CODING and, Debugging the UNIVERSE </h3>
 
 ---
 
@@ -14,8 +14,6 @@
 - 🌱 I’m currently learning C, C++,
 
 - 📫 How to reach me **dinukadkirindage@gmail.com**
-
-- ⚡ Fun fact **Call me as Double D**
 </td>
 <td width="50%" align="center">
 
