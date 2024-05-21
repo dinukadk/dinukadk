@@ -11,9 +11,9 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
-- 🌱 I’m currently learning C, C++,
+- 🌱 I’m currently learning = C, C++, HTML, CSS, JS, PHP, JAVA
 
-- 📫 How to reach me **dinukadkirindage@gmail.com**
+- 📫 How to reach me = **dinukadkirindage@gmail.com**
 </td>
 <td width="50%" align="center">
 
